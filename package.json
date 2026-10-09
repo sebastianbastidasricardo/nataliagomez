@@ -1,0 +1,13 @@
+{
+  "name": "stitch-codigo-visual",
+  "version": "1.0.0",
+  "description": "Sitio web Código Visual - Natalia Gómez",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
